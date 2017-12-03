@@ -10,5 +10,4 @@ Ant Colony Optimization used for TSP(Traveling Salesman Problem), then tuning th
 As required by many artificial intelligence methods, it is first necessary to tune the set of parameters so that the algorithm can achieve its best performance. Let P = {q0, beta, rho, phi, K}be our set of parameters.
 ### Running algorithm
 Now it is time to optimize a larger instance of TSP. Using your set of optimized parameters, you will run your algorithm for the two national instances of TSP: Uruguay with 734 cities and Canada with 4663 cities.
-
-### The detailed infomation is on the Report.
+[!image](https://github.com/jinglingxing/ACO_TSP/blob/master/National%20instance/Uruguay_TSP.png)
