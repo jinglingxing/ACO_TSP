@@ -11,4 +11,4 @@ As required by many artificial intelligence methods, it is first necessary to tu
 ### Running algorithm
 Now it is time to optimize a larger instance of TSP. Using your set of optimized parameters, you will run your algorithm for the two national instances of TSP: Uruguay with 734 cities and Canada with 4663 cities.
 
-[!image] (https://github.com/jinglingxing/ACO_TSP/blob/master/National%20instance/Uruguay_TSP.png)
+[!image](https://github.com/jinglingxing/ACO_TSP/blob/master/National%20instance/Uruguay_TSP.png)
