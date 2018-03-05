@@ -1,5 +1,12 @@
 # ACO_TSP
-Ant Colony Optimization used for TSP(Traveling Salesman Problem), then tuning the parameters and after finding set of optimized parameters, we run our algorithm for the two national instances(Canada &amp; Uruguay) of TSP. Me and my teammate Zhenxi finished it together.
+Ant Colony Optimization used for TSP(Traveling Salesman Problem), then tuning the parameters and after finding set of optimized parameters, we run our algorithm for the two national instances(Canada &amp; Uruguay) of TSP.
+
+team members:
+
+Zhenxi LI
+
+Jinling XING
+
 ### Implement the methods below of class ACO
 - getNextCity(sol)
 - heuristic2opt(sol)
